@@ -13,5 +13,5 @@ to
 with tf.device('/cpu:0')
     #Codes here
 ```
-
+2. Run the cells in the Jupyter environment
 The last cell is meant to be run in Google Colab for downloading the pickled vector dictionary.
